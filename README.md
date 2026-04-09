@@ -5,7 +5,7 @@ Sophomore passionate about quantitative finance and algorithmic trading. I build
 ---
 
 ## Technical Skills
-`Python` `SQL` `NumPy` `Pandas` `Scikit-Learn` `TextBlob` `Matplotlib` `Git` `Excel/VBA`
+`Python` `SQL` `NumPy` `Pandas` 
 
 ---
 
