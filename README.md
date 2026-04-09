@@ -1,6 +1,6 @@
 # Hi, I'm Arjun Angara
 
-Sophomore passionate about quantitative finance and algorithmic trading. I build financial tools, backtest trading strategies, and explore how mathematics and code intersect with markets — all self-taught.
+Sophomore passionate about quantitative finance and algorithmic trading. I build financial tools, backtest trading strategies, and explore how mathematics and code intersect with markets
 
 ---
 
